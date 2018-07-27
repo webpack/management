@@ -83,6 +83,7 @@ By default payment is calcuated via a fixed rate of $50/hour. Hours are determin
 
 ### webpack 5
 
+* https://github.com/webpack/webpack/projects/5
 * Budget: $5,000/month
 * Applicable to: webpack/webpack
 * Applicable to: @ooflorent
