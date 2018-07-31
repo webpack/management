@@ -99,7 +99,8 @@ By default payment is calcuated via a fixed rate of $50/hour. Hours are determin
 ### Stablize minimizer
 
 * Budget: $5,000
-* Applicable to: (TBD)
+* Applicable to: @evilebottnawi
+* Applicable to: webpack-contrib/uglifyjs-webpack-plugin and related projects
 
 ### Improve webpack-bundle-analyser
 
