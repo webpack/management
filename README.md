@@ -100,7 +100,9 @@ By default payment is calcuated via a fixed rate of $50/hour. Hours are determin
 
 * Budget: $5,000
 * Applicable to: @evilebottnawi
-* Applicable to: webpack-contrib/uglifyjs-webpack-plugin and related projects
+* Applicable to: webpack-contrib/uglifyjs-webpack-plugin
+* Applicable to: webpack-contrib/terser-webpack-plugin
+* Applicable to: webpack-contrib/babel-minify-webpack-plugin
 
 ### Improve webpack-bundle-analyser
 
